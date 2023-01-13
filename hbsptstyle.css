@@ -103,7 +103,8 @@ label {
 }
 
 .hs-input {
-	display: inline-block;
+	display: block;
+	margin: 0 auto;
 	width: 90%;
 	max-width: 500px;
 	height: 40px;
