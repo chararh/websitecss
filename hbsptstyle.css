@@ -2,7 +2,8 @@
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	margin: 0;
 	cursor: pointer;
-	display: inline-block;
+	display: block;
+	margin: 0 auto;
 	font-weight: 700;
 	line-height: 12px;
 	position: relative;
