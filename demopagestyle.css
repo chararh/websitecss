@@ -270,7 +270,7 @@ ul.no-list {
 }
 
 .hs-custom-style .hs-dependent-field>div input.hs-input:not([type=checkbox]):not([type=radio]) {
-	width: 90%
+	width: 100%
 }
 
 form.hs-form-rtl .field {
@@ -336,7 +336,7 @@ form.hs-form-rtl .hs-dependent-field {
 	.email-correction form .form-columns-3 .hs-form-field .hs-input,
 	.email-validation form .form-columns-2 .hs-form-field .hs-input,
 	.email-validation form .form-columns-3 .hs-form-field .hs-input {
-		width: 90%
+		width: 100%
 	}
 
 	.email-correction form .form-columns-2 .hs-form-field input[type=checkbox],
